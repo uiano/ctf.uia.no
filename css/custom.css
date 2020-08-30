@@ -1,0 +1,30 @@
+.is-uia-red {
+    color: #C8102E;
+}
+
+a:hover {
+    color: #F2F3F5;
+    transition: .5s;
+}
+
+.is-uia-black {
+    color: #131E29;
+}
+
+.is-uia-white {
+    color: #F2F3F5;
+}
+
+.is-uia-bg {
+    background-color: #131E29;
+}
+
+.subtitle-text {
+    margin-top: -6%;
+}
+
+hr.divider {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    border-width: 2px;
+}
