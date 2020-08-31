@@ -3,7 +3,7 @@
 }
 
 a {
-	transition: .5;
+	transition: 0.5s;
 }
 
 a:hover {
