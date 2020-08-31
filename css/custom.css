@@ -2,9 +2,12 @@
     color: #C8102E;
 }
 
+a {
+	transition: .5;
+}
+
 a:hover {
     color: #F2F3F5;
-    transition: .5s;
 }
 
 .is-uia-black {
